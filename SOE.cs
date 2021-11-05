@@ -32,7 +32,7 @@ namespace SOE
         {
             Console.WriteLine($"Name:{Name}\nId:{Id}\nMail:{Mail}");
             Console.Write("希望物品番号:");
-            for(var i = 0;i < Choice.Count(); i++)
+            for(var i = 0;i < Choice.Count; i++)
             {
                 Console.Write($"\t第{i + 1}希望:{Choice[i]}");
             }

@@ -1,0 +1,16 @@
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\SOE.exe
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\SOE.deps.json
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\SOE.runtimeconfig.json
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\SOE.runtimeconfig.dev.json
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\SOE.dll
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\ref\SOE.dll
+C:\Users\kasariku\Documents\GitHub\SOE\bin\Debug\net5.0\SOE.pdb
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.csproj.AssemblyReference.cache
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.AssemblyInfoInputs.cache
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.AssemblyInfo.cs
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.csproj.CoreCompileInputs.cache
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.dll
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\ref\SOE.dll
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.pdb
+C:\Users\kasariku\Documents\GitHub\SOE\obj\Debug\net5.0\SOE.genruntimeconfig.cache

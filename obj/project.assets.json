@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kasariku\\Documents\\GitHub\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\kasariku\\Documents\\GitHub\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\kasariku\\Documents\\GitHub\\SOE\\SOE.csproj",
+      "projectName": "SOE",
+      "projectPath": "C:\\Users\\kasariku\\Documents\\GitHub\\SOE\\SOE.csproj",
       "packagesPath": "C:\\Users\\kasariku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kasariku\\Documents\\GitHub\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\kasariku\\Documents\\GitHub\\SOE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

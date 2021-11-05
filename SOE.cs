@@ -30,7 +30,7 @@ namespace SOE
 
         public void Show()
         {
-            Console.WriteLine($"Name:{Name}\nId{Id}\nMail:{Mail}");
+            Console.WriteLine($"Name:{Name}\nId:{Id}\nMail:{Mail}");
             Console.Write("希望物品番号:");
             for(var i = 0;i < Choice.Count(); i++)
             {
